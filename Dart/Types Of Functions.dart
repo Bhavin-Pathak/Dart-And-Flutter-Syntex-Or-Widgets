@@ -5,10 +5,10 @@ void main() {
   //! With Argument and no return types
   //! No Agruments and with return types
   //! With Agruments and with return types
-  add(); //FUNCTION CALLED
-  addValue(2, 4); //FUNCTION CALLED WITH ARGUMENTS
-  print(pluse()); //FUNCTION CALLED NO ARGUMENTS WITH RETURN TYPE
-  print(pluseMore(30, 20)); //FUNCTION CALL With ARGUMENTS or RETURN TYPE
+  add(); //FUNCTION WITH NO ARGUMENTS CALLED HERE
+  addValue(2, 4); //FUNCTION WITH ARGUMENTS CALLED HERE
+  print(pluse()); //FUNCTION NO ARGUMENTS WITH RETURN TYPE CALLED HERE
+  print(pluseMore(30, 20)); //FUNCTION With ARGUMENTS OR RETURN TYPE CALLED HERE
 }
 
 //! Function No Arguments
