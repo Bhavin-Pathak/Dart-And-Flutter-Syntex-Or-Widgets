@@ -21,6 +21,6 @@ void main() {
     2
   ];
   print("Original $list");
-  List<int> result = list.where((element) => element != 0).toList();
+  int result = list.singleWhere((element) => element != 0);
   print("Result $result");
 }
