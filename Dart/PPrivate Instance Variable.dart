@@ -1,4 +1,4 @@
-import '../Classes/PrivateVar.dart';
+import 'PrivateVar.dart';
 
 void main() {
   //!
