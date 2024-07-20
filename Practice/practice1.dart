@@ -10,14 +10,10 @@ void main() {
   print(greetings[2]);
   print(greetings[3]);
   print(greetings[4]);
-
   //We Can Assign New Variable Value In Var Keyword
   greetings = "Bhavin";
   print(greetings);
-
   //Constants
   const greet = "Hello Duniya";
   print(greet);
-  // We Can't Assign New Value To Constants 
-  
 }
