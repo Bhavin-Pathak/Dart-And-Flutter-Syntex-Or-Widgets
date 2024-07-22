@@ -16,4 +16,8 @@ void main() {
   //Constants
   const greet = "Hello Duniya";
   print(greet);
+
+  var list = [];
+  list.isEmpty;
+  print(list);
 }
