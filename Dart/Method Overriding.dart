@@ -12,7 +12,6 @@ void main() {
 
 class A {
   // Super Class
-  @override
   void DisplayOutput() {
     print("Super Class A");
   }
@@ -22,6 +21,7 @@ class B extends A {
   // Sub Class
   @override
   void DisplayOutput() {
+    // Superclass method
     super.DisplayOutput();
     print("Sub Class B");
   }
