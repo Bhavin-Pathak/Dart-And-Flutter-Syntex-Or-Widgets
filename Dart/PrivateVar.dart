@@ -7,3 +7,4 @@ class A {
     print(name);
   }
 }
+  
