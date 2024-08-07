@@ -3,7 +3,7 @@ void main() {
   //?  A generic class is a class that can work with different types.
   // Types safe Collections
 
-  List mylist = [];
-  mylist.add(1);
+  List<bool> mylist = [];
+  mylist.add(true);
   print("List: $mylist");
 }
