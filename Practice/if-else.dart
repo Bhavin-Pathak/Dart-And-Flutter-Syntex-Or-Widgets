@@ -7,11 +7,9 @@ void main() {
   Sum(int n1, int n2) {
     print("Sum of the two number:${n1 + n2}");
   }
-
   Sub(int n1, int n2) {
     print("Subtraction of the two number:${n1 - n2}");
   }
-
   MultiOperation mp;
   mp = Sum;
   mp(20, 100);
