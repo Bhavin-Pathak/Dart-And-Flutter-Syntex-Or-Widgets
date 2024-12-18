@@ -59,4 +59,28 @@ Switch (expression){
       print("No Match Found");
       break;
   }
+
+
+  var dig = 50;
+
+  switch (dig) {
+    case 1:
+      print("Hello 1");
+      break;
+    case 2:
+      print("Hello 2");
+      break;
+    case 3:
+      print("Hello 3");
+      break;
+    case 4:
+      print("Hello 4");
+      break;
+    case 50:
+      print("Hello 5");
+      break;
+    default:
+      print("No Match Found");
+      break;
+  }
 }
